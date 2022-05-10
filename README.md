@@ -5,7 +5,8 @@ Happy Exploring is an Exploratory Data Analysis Tool which helps you understand 
 Apart from the basic EDA functions. It also provides the functionality of performing Data Visualizations just by selecting the columns and the type of chart that you want to make.
 
 ## This Application requires:
-1- Streamlit (pip install streamlit)
+1- Streamlit 
+(pip install streamlit)
 
 2- Python3
 
